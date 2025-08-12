@@ -1,8 +1,8 @@
 # unnamed-game
 
 ## about
-  this is just a undertale/deltarune fangame i made in python, all you have to do is download the file, unzip it, and run game.py.
-  ***warning***: dont remove any files or it will crash spectacularly within the first few seconds
+  this is just a undertale/deltarune fangame i made in python, all you have to     do is download the file, unzip it, and run game.py.
+  ***warning***: dont remove any files or it will crash spectacularly within the   first few seconds
 
 ## Requirements
   Python 3
