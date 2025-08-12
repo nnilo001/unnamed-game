@@ -9,6 +9,12 @@
   pygame
   colorama  
   pyjokes
-  Install with: `pip install pygame colorama pyjokes`
+  install with: `pip install pygame colorama pyjokes`
 
-you could say things took a bit of a ### whird route
+
+
+
+
+
+
+you could say things took a bit of a **whird route** right now
